@@ -1,0 +1,49 @@
+body {
+    color: green;
+    font-family: Verdana, arial, geneva, arial black;
+    font-weight: normal;
+}
+
+h1,
+h2 .underline {
+    text-decoration: underline;
+}
+
+p.para1 {
+    color: blue;
+    font-size: 25px;
+}
+
+p.para2 {
+    color: blue;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+p.para3 {
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#product1,
+#product3 {
+    color: blue;
+}
+
+li {
+    border-bottom: 1px dashed black;
+}
+
+#product2 {
+    border: 3px red dashed;
+}
+
+.warning {
+    font-weight: bold;
+    color: red;
+}
+
+div.warning {
+    font-style: italic;
+}
