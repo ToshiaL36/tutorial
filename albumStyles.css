@@ -1,0 +1,25 @@
+body {
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    line-height: 1;
+}
+
+.mid {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.para {
+    color: black;
+    font: italics;
+    text-align: left;
+    font-weight: normal;
+    list-style-type: "disc";
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
