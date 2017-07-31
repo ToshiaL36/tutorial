@@ -5,16 +5,33 @@ body {
     line-height: 1;
 }
 
+font {
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+div.bgimg {
+    background-image: url("C:\repos\tutorial\images\bruno-mars24.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .mid {
     color: black;
     font-weight: bold;
     text-align: center;
 }
 
+.centered-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .para {
     color: black;
     font: italics;
-    text-align: left;
     font-weight: normal;
     list-style-type: "disc";
 }

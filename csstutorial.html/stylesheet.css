@@ -47,3 +47,15 @@ li {
 div.warning {
     font-style: italic;
 }
+
+body {
+    background-image: url("images/bruno-mars24large.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: auto;
+    background-position-y: auto;
+    color: black;
+    font-family: Verdana;
+    font-weight: normal;
+    line-height: 1;
+}
